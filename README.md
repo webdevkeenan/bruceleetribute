@@ -1,4 +1,4 @@
-# Free Code Camp Tribute Page
+# Tribute Page
 
 [Link to Site](https://bruceleetribute.netlify.app/)<br>
 
