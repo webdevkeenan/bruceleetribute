@@ -10,9 +10,9 @@ https://github.com/webdevkeenan/bruceleetribute/wiki
 https://youtu.be/Ab4Pb__-tYA
 
 ## Tools Used:
-+ Visual Studio Code
-+ Pop!_OS (Linux)
-+ Git
++ [Visual Studio Code](https://code.visualstudio.com/)
++ [Pop!_OS (Linux)](https://pop.system76.com/)
++ [Git](https://git-scm.com/)
 
 ## Skills Displayed: 
 + Margin (To Center Page) 
