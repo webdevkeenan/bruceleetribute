@@ -16,7 +16,7 @@ https://youtu.be/Ab4Pb__-tYA
 
 ## Skills Displayed: 
 + Margin (To Center Page) 
-+ Custom Properties
++ CSS Variables (Custom Properties)
 + Accessibility (Screen Reader Friendly)
 + Royalty Free Images
 + Gitignore
